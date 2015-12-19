@@ -32,6 +32,7 @@ typedef struct	s_en
 	size_t	size;
 	size_t	i;
 	char	c;
+	int		*taken;
 }				t_en;
 
 #endif
